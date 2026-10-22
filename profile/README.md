@@ -23,11 +23,21 @@ Ausgewählte Planungs-, Aufgaben- und UI-Abläufe sind bereits umgesetzt und im 
 
 [Zweiseitiges Projektprofil als PDF](https://github.com/Joliben/joliben-website/blob/main/docs/JOLIBEN_Projektprofil_Thiemo_Gerhardt.pdf) · [Rolle und Kompetenzen](https://github.com/Joliben/joliben-website/blob/main/docs/THIEMO_GERHARDT.md)
 
-## Konkreter Fortschritt
+## Zwei konkrete Arbeitsproben
+
+### Fallstudie 01: Kontrollierte Entwicklung
 
 Ein begrenzter Entwicklungsauftrag wurde mit zunächst fehlschlagenden neuen Prüfungen, gezielter Korrektur und 16 bestandenen ausgewählten Regressionstests bis zur menschlich freigegebenen Integration begleitet. Die Zahl bezieht sich auf diesen dokumentierten Fall; ein Produktivrollout gehörte nicht zu diesem Zyklus.
 
-[Zur Fallstudie](https://github.com/Joliben/joliben-website/blob/main/docs/FALLBEISPIEL_KONTROLLIERTE_ENTWICKLUNG.md) · [Entwicklungsstand und Grenzen](https://github.com/Joliben/joliben-website/blob/main/docs/ENTWICKLUNGSSTAND.md)
+[Zur Fallstudie 01](https://github.com/Joliben/joliben-website/blob/main/docs/FALLBEISPIEL_KONTROLLIERTE_ENTWICKLUNG.md)
+
+### Fallstudie 02: Vom Wunsch zur nachvollziehbaren Aufgabe
+
+Ein interner Prüfwunsch führte über einen KI-Plan und eine bewusste Projektwahl zu einer tatsächlich angelegten Aufgabe. Ihre Originalquelle blieb nachvollziehbar. Der Fall zeigt zugleich die nächste Produktanforderung: die weitere rein lesende Bearbeitung und einen passenden Befundbericht fachlich durchgängig abzubilden.
+
+[Fallstudie 02 lesen](https://github.com/Joliben/joliben-website/blob/main/docs/FALLSTUDIE_02_VOM_WUNSCH_ZUR_AUFGABE.md) · [Gestaltete PDF](https://github.com/Joliben/joliben-website/blob/main/docs/JOLIBEN_Fallstudie_02_Vom_Wunsch_zur_Aufgabe.pdf)
+
+[Entwicklungsstand und Grenzen](https://github.com/Joliben/joliben-website/blob/main/docs/ENTWICKLUNGSSTAND.md)
 
 ## Projekte
 
@@ -51,6 +61,8 @@ Die [öffentliche Agentenansicht](https://joliben.github.io/joliben-website/agen
 JOLIBEN is an independent, self-hosted AI and product-development project initiated by **Thiemo Gerhardt, Product Owner**. It explores how AI assistance can become a traceable workflow with clear scope, useful context, reviewable results and deliberate human decisions.
 
 Selected planning and task workflows have been implemented and tried in specific user cases. A separate AI-assisted development cycle reached a reviewed, human-approved merge, including 16 passing scoped regression checks. That cycle did not include a production deployment. The fully integrated workflow and controlled knowledge feedback remain in development.
+
+A second case study documents the transition from an internal review request to a deliberately created task with its original plan preserved. The subsequent read-only investigation and completed findings report remained outside the demonstrated workflow. [Read case study 02 (German)](https://github.com/Joliben/joliben-website/blob/main/docs/FALLSTUDIE_02_VOM_WUNSCH_ZUR_AUFGABE.md).
 
 Thiemo's contribution includes product direction, prioritisation, acceptance criteria, AI collaboration and the critical review of results. Implementation and technical analysis use AI tools. The public agent experience is an explanatory simulation. Application source and detailed internal architecture remain private.
 
